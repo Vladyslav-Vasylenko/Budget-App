@@ -3,7 +3,7 @@
 
 **Description:**
 Are you spending to much? Then this simple app will help you. Jot down all your expenses and incomes and never think again about it. Budget App stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-### [LIVE](https://vladyslav-vasylenko.github.io/Budget-App/)
+### [LIVE](https://vladyslav.github.io/Budget-App/)
 **Technologies used:**
  - HTML
  - Bootstrap
